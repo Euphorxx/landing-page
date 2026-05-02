@@ -10,7 +10,7 @@ body * {
     flex-direction: column;
     box-sizing: border-box;
     display: flex;
-
+    border: red 2px solid;
 }
 
 .hero {
@@ -132,7 +132,6 @@ img {
     width:200px;
     height:200px;
     border-radius: 10px;
-
 }
 
 .info-imgs {
@@ -144,10 +143,10 @@ img {
 
 .info-caption {
     flex-direction: row;
-    padding: 0 18px;
     gap:62px;
     justify-content: center;
     max-height: fit-content;
+    justify-self:start;
 }
 
 p {
@@ -155,6 +154,7 @@ p {
     flex-wrap:wrap;
     text-align: center;
     color: #485a36;
+    margin:0;
 }
 
 .quote-section {

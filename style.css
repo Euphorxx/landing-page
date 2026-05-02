@@ -196,7 +196,7 @@ p {
     align-items:center;
     justify-content: space-evenly;
     justify-self:center;
-    margin:100px;
+    margin:100px auto;
 }
 
 .action-header {

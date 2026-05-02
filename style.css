@@ -10,7 +10,6 @@ body * {
     flex-direction: column;
     box-sizing: border-box;
     display: flex;
-    border: red 2px solid;
 }
 
 .hero {

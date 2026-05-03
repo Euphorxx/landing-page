@@ -74,8 +74,8 @@ ul {
 }
 
 button {
-    background-color: #83926e;
-    color: #e5ead4;
+    background-color: #b2b59c;
+    color: #1f250e;
     padding:5px 25px;
     border-radius:5px;
     margin-block:4px;
@@ -205,7 +205,7 @@ p {
 }
 
 .action-desc {
-    color:#a0ae91;
+    color:#e5ead4;
     font-size:18px;
     width:90%;
 }
